@@ -33,3 +33,9 @@ I love Dogs, cats and any other stuff that might not kill me (or do)!
 
 ## 2021 Contributions
 
+## 2021 Contributions
+
+- **profile - You are here!**
+- [hello_world.rb](../2021/marcelosnts/hello_world.rb)
+- [message](../2021/marcelosnts/message.md)
+- [enjoy](../2021/marcelosnts/enjoy.md)
