@@ -31,3 +31,5 @@ I love Dogs!
 ## 2021 Contributions
 
 - [hello_world.rb](../2021/almirpask/hello_world.rb)
+- [message](../2021/almirpask/message.md)
+- [enjoy](../2021/almirpask/enjoy.md)
