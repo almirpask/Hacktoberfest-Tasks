@@ -27,3 +27,4 @@ All fur ones
 ## 2021 Contributions
 
 - [hello_world.js](../2021/LuizLantmann/hello_world.js)
+- [message](../2021/LuizLantmann/message.md)
