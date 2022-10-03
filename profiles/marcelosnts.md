@@ -37,3 +37,10 @@ I love Dogs, cats and any other stuff that might not kill me (or do)!
 - [hello_world.rb](../2021/marcelosnts/hello_world.rb)
 - [message](../2021/marcelosnts/message.md)
 - [enjoy](../2021/marcelosnts/enjoy.md)
+
+## 2022 Contributions
+
+- **profile - You are here!**
+- [hello_world.rb](../2022/marcelosnts/hello_world.rb)
+- [message](../2022/marcelosnts/message.md)
+- [enjoy](../2022/marcelosnts/enjoy.md)
