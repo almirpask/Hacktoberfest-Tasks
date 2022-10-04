@@ -8,6 +8,6 @@ const data = {
 }
 
 const str = `Hello World, I'm ${data.name.first} ${data.name.last}.`
-const social = `Email <e: ${data.email}\nWebsite: ${data.website}`
+const social = `Email me: ${data.email}\nWebsite: ${data.website}`
 
 console.log(`${str}\n\n${social}`)
