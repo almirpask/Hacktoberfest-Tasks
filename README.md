@@ -2,7 +2,7 @@
 
 Some tasks to help beginners enjoy [Hacktoberfest](https://hacktoberfest.digitalocean.com).
 
-# Tasks
+# Tasks (You can submit these tasks in different PRs 😉)
 
 - Create a Profile using [Profile template](CONTRIBUTING.md).
 - Create a hello world using your favorite language.
