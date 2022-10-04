@@ -25,16 +25,16 @@ git checkout -b your-branch-name
 
 ## Setup
 
-Create a folder with your github user name inside `2021` folder
+Create a folder with your github user name inside `2022` folder
 
 ## Hello World
 
-Inside `2021/your_user_name` create a file with a hello world using your favorite language.
+Inside `2022/your_user_name` create a file with a hello world using your favorite language.
 
 ## Message
 
-Inside `2021/your_user_name` create a file with a message to yourself in the future.
+Inside `2022/your_user_name` create a file with a message to yourself in the future.
 
 ## Most Enjoy
 
-Inside `2021/your_user_name` create a file sharing what was the movie, game or serie that you most enjoy this year.
+Inside `2022/your_user_name` create a file sharing what was the movie, game or serie that you most enjoy this year.
