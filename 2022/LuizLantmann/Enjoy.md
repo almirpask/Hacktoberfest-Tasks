@@ -6,4 +6,4 @@
 
 - Series: The Boys, Mandalorian, Sandman, House of The Dragon
 
-
+- Animes: Ōsama Ranking, Ijiranaide, Nagatoro-san, Spy x Family, Yofukashi no Uta, Summer Time Rendering
