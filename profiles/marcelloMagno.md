@@ -21,12 +21,12 @@ Itararé, São Paulo, Brazil
 ### What are your favorite programming languages
 
 - C
-- C++
+- Ruby
 - Javascript
 
 ### Your Favorite Animal
 
-I love owls
+I love Owls
 
 ## 2021 Contributions
 
@@ -34,3 +34,10 @@ I love owls
 - [hello_world.html](../2021/marcelloMagno/hello_world.html)
 - [message](../2021/marcelloMagno/message.md)
 - [enjoy](../2021/marcelloMagno/enjoy.md)
+
+## 2022 Contributions
+
+- **profile - You are here!**
+- [hello_world.html](../2022/marcelloMagno/hello_world.rb)
+- [message](../2022/marcelloMagno/message.md)
+- [enjoy](../2022/marcelloMagno/enjoy.md)
